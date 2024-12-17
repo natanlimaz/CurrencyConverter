@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="app_description">Confira taxas ao vivo, configure alertas de taxas, receba notificações e muito mais.</string>
+    <string name="amount_label">Valor</string>
+    <string name="converted_amount_label">Valor Convertido</string>
+    <string name="exchange_label">Taxa de Câmbio Indicativa</string>
+    <string name="exchange_value">%.2f %s = %.2f %s</string>
+    <string name="btn_clean">LIMPAR</string>
+    <string name="hint_input">Ex: 100.00</string>
+    <string name="exchange_default_value">1 BRL = 1 BRL</string>
+    <string name="converted">100.00</string>
+    <string name="converted_format">%.2f</string>
+</resources>
