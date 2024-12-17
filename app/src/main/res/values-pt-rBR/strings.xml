@@ -8,7 +8,7 @@
     <string name="exchange_value">%.2f %s = %.2f %s</string>
     <string name="btn_clean">LIMPAR</string>
     <string name="hint_input">Ex: 100.00</string>
-    <string name="exchange_default_value">1 BRL = 1 BRL</string>
+    <string name="exchange_default_value">1 USD = 6,09 BRL</string>
     <string name="converted">100.00</string>
     <string name="converted_format">%.2f</string>
 </resources>

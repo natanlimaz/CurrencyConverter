@@ -35,6 +35,8 @@ class MainActivity : AppCompatActivity() {
         binding.currenciesSpinnerInput.adapter = adapter;
         binding.currenciesSpinnerOutput.adapter = adapter;
 
+        binding.currenciesSpinnerInput.setSelection(1);
+
         binding.edtCurrencyValueInput.addTextChangedListener { value ->
             val outputIndex = binding.currenciesSpinnerOutput.selectedItemId.toInt();
             val inputIndex = binding.currenciesSpinnerInput.selectedItemId.toInt();
